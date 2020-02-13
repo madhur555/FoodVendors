@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "153070719378",
+    "firebase_url": "https://lama-2c862.firebaseio.com",
+    "project_id": "lama-2c862",
+    "storage_bucket": "lama-2c862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153070719378:android:617de417f04fd12feab14b",
+        "android_client_info": {
+          "package_name": "com.example.madhurgoyal.lama2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153070719378-smh9pddh8ifno3hdsog940ij9sk3g9tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madhurgoyal.lama2",
+            "certificate_hash": "630d8985377db1a02a940daf2b1e438b147dd4d8"
+          }
+        },
+        {
+          "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6BMW5OvhUwMuXXBUoyALeZG8CBR3_WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153070719378:android:6ed8cc9068ae6c05eab14b",
+        "android_client_info": {
+          "package_name": "com.example.madhurgoyal.lamadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153070719378-qmp5b58rokr58dnjq5r238csc9q0j6lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madhurgoyal.lamadelivery",
+            "certificate_hash": "630d8985377db1a02a940daf2b1e438b147dd4d8"
+          }
+        },
+        {
+          "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6BMW5OvhUwMuXXBUoyALeZG8CBR3_WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153070719378:android:cff142ba26114c93eab14b",
+        "android_client_info": {
+          "package_name": "com.example.madhurgoyal.lamaforvendors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153070719378-2v9ul6941b28den9170g2te11g0nv2dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madhurgoyal.lamaforvendors",
+            "certificate_hash": "630d8985377db1a02a940daf2b1e438b147dd4d8"
+          }
+        },
+        {
+          "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6BMW5OvhUwMuXXBUoyALeZG8CBR3_WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153070719378:android:a75543e6f7d3f37deab14b",
+        "android_client_info": {
+          "package_name": "com.example.madhurgoyal.lamavendors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153070719378-igpjuipp4pi6gqiof6vgfnr0ea4puotv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madhurgoyal.lamavendors",
+            "certificate_hash": "630d8985377db1a02a940daf2b1e438b147dd4d8"
+          }
+        },
+        {
+          "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6BMW5OvhUwMuXXBUoyALeZG8CBR3_WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153070719378-adrostapa9ompb5pu5mi16horv3tr1fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
